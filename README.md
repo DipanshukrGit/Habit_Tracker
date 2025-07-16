@@ -5,7 +5,7 @@ A clean and modern Habit Tracker built using **React**, **Redux Toolkit**, and *
 - 📌 Add habits with daily or weekly frequency
 - ✅ Mark habits as completed each day
 - 🔥 Track current streaks and daily completions
-- 📊 View insightful habit statistics
+- 📊 View insightful habit statistics.
 
 ---
 
